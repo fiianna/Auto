@@ -9,6 +9,7 @@ public class EnsimmainenTehtava {
 		
 		// Tulosta tiedot -metodi
 		auto1.tulostaTiedot();
+		auto2.tulostaTiedot();
 		
 		// Olioiden arvot
 		// auto.merkki = "Lexus";
